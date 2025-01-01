@@ -1,12 +1,27 @@
-# Getting Started with Create React App
+## Sidebar
+A responsive dashboard layout built with React, designed to provide a modern and user-friendly experience. It includes a collapsible sidebar and a dynamic navbar, both of which adapt seamlessly to large and mobile screen sizes.
+# Features
+- **Collapsible Sidebar**: Expands or collapses on large screens based on the user action.
+- **Dynamic Navbar:**: Includes a hamburger icon for toggling the sidebar.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies Used
+- **React**: For building the user interface.
+- **Tailwind CSS**: For styling the application.
 
-## Available Scripts
+# Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/hamzasdsol/react-sidebar
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd navbar-sidebar
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to 
+# Start the development server:
+```bash
+npm start
